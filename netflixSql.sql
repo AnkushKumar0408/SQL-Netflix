@@ -22,7 +22,7 @@ from netflix;
 
 
 
--- 15 Business Problems & Solutions
+-- 10 Business Problems & Solutions
 
 -- 1. Count the number of Movies vs TV Shows
 
